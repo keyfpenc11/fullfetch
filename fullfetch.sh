@@ -4,7 +4,8 @@
 echo Obtaining system info...
 sleep 1s
 echo Calculating...
-sleep 1.5s
+sleep 1.7458s
+echo
 inxi -b
 echo 
 echo Successfull!
